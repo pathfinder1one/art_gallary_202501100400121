@@ -19,7 +19,7 @@ The gallery highlights each artwork with descriptions, images, and techniques, a
 
 ## 🚀 Demo
 
-Open the `index.html` file in your browser to view the gallery.  
+Open the `art_gallary1.html` file in your browser to view the gallery.  
 You’ll see a **collection of 10 artworks** presented with titles, descriptions, and visuals.
 
 ---
